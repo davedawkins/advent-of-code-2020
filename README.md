@@ -1,6 +1,6 @@
 # Advent of Code 2020
 
-I've decided to attempt the whole thing inside an Interactive Notebook using F#. Enjoying it very much so far!
+I've decided to attempt the whole thing in a .NET Interactive Notebook using F#. Enjoying it very much so far!
 
 <img src="aoc-screenshot.png" width="400">
 
