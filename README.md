@@ -1,4 +1,4 @@
-Advent of Code 2020
+# Advent of Code 2020
 
 I've decided to attempt the whole thing inside an Interactive Notebook using F#. Enjoying it very much so far!
 
