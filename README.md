@@ -59,8 +59,8 @@ dataFile1.Trim().Split null         // make words
     |> Array.map Int32.Parse   // to numbers array
     |> Array.toList            // to numbers list (ie, head::tail)
     |> selfTriples             // all possible triples 
-    |> List.filter (fun (a,(b,c)) -> a + b + c = 2020)  // pairs that add to 2020
-    |> List.map (fun (a,(b,c)) -> a * b * c)  // products of pairs
+    |> List.filter (fun (a,(b,c)) -> a + b + c = 2020)  // triples that add to 2020
+    |> List.map (fun (a,(b,c)) -> a * b * c)  // products of triples
     |> List.head               // List -> number (expecting single element list)
 ```
 
